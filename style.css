@@ -3,7 +3,7 @@
     margin-left: 100%;
     width: 300%;
   }
-  
+
   to {
     margin-left: 0%;
     width: 100%;
@@ -207,7 +207,7 @@
 
 .card:hover {
   box-shadow: 12px 12px 10px grey;
-}  
+}
 
 /* Center the image */
 .img {
@@ -689,7 +689,7 @@ form legend {
 
   .card:hover {
     box-shadow: 12px 12px 10px grey;
-  }    
+  }
 
   .card-1 {
     display: flex;
@@ -1129,7 +1129,6 @@ form legend {
   .card:hover {
     box-shadow: 12px 12px 10px grey;
   }
-    
 
   .card-1 {
     display: flex;
@@ -1419,7 +1418,7 @@ form legend {
 
   .card:hover {
     box-shadow: 12px 12px 10px grey;
-  }    
+  }
 
   .card-1 {
     display: flex;
