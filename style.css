@@ -788,8 +788,7 @@ form legend {
   }
 
   .button button,
-  .button-1 button
-  {
+  .button-1 button {
     font-size: 17px;
     font-weight: 500;
     font-family: 'Poppins', sans-serif;
